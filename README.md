@@ -57,7 +57,7 @@ alertbench -rules=50
 2023/03/22 15:24:06 Done 
 ```
 
-You can also provision further rules using the `-offset` flag to offset
+You can provision additional rules using the `-offset` flag to offset
 the rules and avoid naming conflicts.
 
 ```
